@@ -1,0 +1,102 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "kushiro_l01",
+ "number": 8,
+ "title": "Kushiro",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_釧",
+  "kanji_路"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Kushiro",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "釧路",
+     "reading": "くしろ",
+     "gloss": "Kushiro"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_釧",
+      "kanji_路"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_釧路"
+    }
+   ]
+  },
+  {
+   "id": "inside_kushiro",
+   "title": "Inside 釧路",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {釧路|くしろ}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_釧",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_路",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_kane"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_kawa"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_ashi"
+    },
+    {
+     "type": "callout",
+     "text": "釧 combines 金 (metal) and 川 (river): 金 is the meaning clue, 川 hints at the sound セン. 路 carries 足 (foot). 道 and 路 both mean road, but with different clues: 辶 and 足. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Kushiro will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

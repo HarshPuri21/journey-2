@@ -1,0 +1,98 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "asahikawa_l01",
+ "number": 5,
+ "title": "Asahikawa",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_旭",
+  "kanji_川"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Asahikawa",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "旭川",
+     "reading": "あさひかわ",
+     "gloss": "Asahikawa"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_旭",
+      "kanji_川"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_旭川"
+    }
+   ]
+  },
+  {
+   "id": "inside_asahikawa",
+   "title": "Inside 旭川",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {旭川|あさひかわ}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_旭",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_川",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_nichi"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_kawa"
+    },
+    {
+     "type": "callout",
+     "text": "旭 carries 日 (sun) - the morning sun. 川 is its own radical, a picture of a flowing river. You will meet 川 again inside another Hokkaido name: 釧路. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Asahikawa will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

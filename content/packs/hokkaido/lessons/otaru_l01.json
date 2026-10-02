@@ -1,0 +1,98 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "otaru_l01",
+ "number": 4,
+ "title": "Otaru",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_小",
+  "kanji_樽"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Otaru",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "小樽",
+     "reading": "おたる",
+     "gloss": "Otaru"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_小",
+      "kanji_樽"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_小樽"
+    }
+   ]
+  },
+  {
+   "id": "inside_otaru",
+   "title": "Inside 小樽",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {小樽|おたる}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_小",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_樽",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_shou"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_ki"
+    },
+    {
+     "type": "callout",
+     "text": "小 is its own radical. 樽 carries 木 (wood) - the same component you met in 札. Barrels were made of wood. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Otaru will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

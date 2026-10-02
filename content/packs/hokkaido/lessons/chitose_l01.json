@@ -1,0 +1,98 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "chitose_l01",
+ "number": 3,
+ "title": "Chitose",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_千",
+  "kanji_歳"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Chitose",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "千歳",
+     "reading": "ちとせ",
+     "gloss": "Chitose"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_千",
+      "kanji_歳"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_千歳"
+    }
+   ]
+  },
+  {
+   "id": "inside_chitose",
+   "title": "Inside 千歳",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {千歳|ちとせ}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_千",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_歳",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_juu"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_tome"
+    },
+    {
+     "type": "callout",
+     "text": "千 is filed under 十 (ten). 歳 is filed under 止 (stop), which gives no hint of 'age'. Another reminder: not every radical is a meaning clue. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Chitose will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

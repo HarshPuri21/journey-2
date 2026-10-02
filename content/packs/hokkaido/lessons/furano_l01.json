@@ -1,0 +1,113 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "furano_l01",
+ "number": 7,
+ "title": "Furano",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_富",
+  "kanji_良",
+  "kanji_野"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Furano",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "富良野",
+     "reading": "ふらの",
+     "gloss": "Furano"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_富",
+      "kanji_良",
+      "kanji_野"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_富良野"
+    }
+   ]
+  },
+  {
+   "id": "inside_furano",
+   "title": "Inside 富良野",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {富良野|ふらの}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_富",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_良",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_野",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_ukanmuri"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_kon"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_sato"
+    },
+    {
+     "type": "callout",
+     "text": "富 sits under the roof component 宀. 良 is filed under 艮. 野 carries 里 (village, land) - a clue for fields and plains. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Furano will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "kind": "grammarSet",
+ "items": [
+  {
+   "id": "grammar_particle_wa",
+   "title": "は (wa) - topic marker",
+   "pattern": "X は ...",
+   "explanation": "Marks the topic of the sentence - what we are talking about. Written は, pronounced わ."
+  },
+  {
+   "id": "grammar_desu",
+   "title": "です - is / am / are",
+   "pattern": "X です",
+   "explanation": "The polite ending that links a noun to a statement."
+  },
+  {
+   "id": "grammar_a_wa_b_desu",
+   "title": "A は B です",
+   "pattern": "A は B です",
+   "explanation": "The basic sentence pattern: A is B. Japanese often leaves information unstated when context makes it obvious, so it can also mean 'A is in B'."
+  },
+  {
+   "id": "grammar_particle_wo",
+   "title": "を (o) - object marker",
+   "pattern": "X を verb",
+   "explanation": "Marks the direct object of a verb. Written を, pronounced お."
+  },
+  {
+   "id": "grammar_particle_ni",
+   "title": "に - destination / place",
+   "pattern": "X に 行きます",
+   "explanation": "Marks a destination (go to X) or the place where something exists."
+  },
+  {
+   "id": "grammar_particle_de",
+   "title": "で - place of action",
+   "pattern": "X で verb",
+   "explanation": "Marks the place where an action happens."
+  },
+  {
+   "id": "grammar_particle_no",
+   "title": "の - connecting nouns",
+   "pattern": "A の B",
+   "explanation": "Connects two nouns: A's B (B of A)."
+  },
+  {
+   "id": "grammar_aru",
+   "title": "あります - there is (things)",
+   "pattern": "X が あります",
+   "explanation": "Used for things that are not alive, and for places."
+  },
+  {
+   "id": "grammar_iru",
+   "title": "います - there is (people, animals)",
+   "pattern": "X が います",
+   "explanation": "Used for people and animals."
+  },
+  {
+   "id": "grammar_polite_past",
+   "title": "ました - polite past",
+   "pattern": "行きます → 行きました",
+   "explanation": "The polite past tense: 行きます (go) becomes 行きました (went)."
+  },
+  {
+   "id": "grammar_polite_past_negative",
+   "title": "ませんでした - polite past negative",
+   "pattern": "行きます → 行きませんでした",
+   "explanation": "The polite past negative: 行きませんでした means did not go."
+  },
+  {
+   "id": "grammar_i_adjective",
+   "title": "い-adjectives",
+   "pattern": "adjective + です",
+   "explanation": "Adjectives ending in い (小さい, 美しい) can end a sentence with です."
+  }
+ ]
+}

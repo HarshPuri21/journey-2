@@ -1,0 +1,98 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "noboribetsu_l01",
+ "number": 9,
+ "title": "Noboribetsu",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_登",
+  "kanji_別"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Noboribetsu",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "登別",
+     "reading": "のぼりべつ",
+     "gloss": "Noboribetsu"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_登",
+      "kanji_別"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_登別"
+    }
+   ]
+  },
+  {
+   "id": "inside_noboribetsu",
+   "title": "Inside 登別",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {登別|のぼりべつ}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_登",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_別",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_hatsugashira"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_katana"
+    },
+    {
+     "type": "callout",
+     "text": "登 is filed under 癶 (footsteps): climbing is done on foot. 別 carries 刀 (blade, written 刂 on the right side): to cut apart. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Noboribetsu will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

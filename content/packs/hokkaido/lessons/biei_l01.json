@@ -1,0 +1,98 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "biei_l01",
+ "number": 6,
+ "title": "Biei",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_美",
+  "kanji_瑛"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Biei",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "美瑛",
+     "reading": "びえい",
+     "gloss": "Biei"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_美",
+      "kanji_瑛"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_美瑛"
+    }
+   ]
+  },
+  {
+   "id": "inside_biei",
+   "title": "Inside 美瑛",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {美瑛|びえい}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_美",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_瑛",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_hitsuji"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_tama"
+    },
+    {
+     "type": "callout",
+     "text": "美 is filed under 羊 (sheep). 瑛 carries 玉 (jewel), written 王 on the left side. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Biei will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

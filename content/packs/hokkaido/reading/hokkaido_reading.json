@@ -1,0 +1,488 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "hokkaido_reading",
+ "number": 10,
+ "title": "Hokkaido Reading Journey",
+ "goal": "Move from isolated lesson examples into actual Japanese reading, with decreasing furigana assistance.",
+ "encounterKanji": [
+  "kanji_南",
+  "kanji_東",
+  "kanji_春",
+  "kanji_夏",
+  "kanji_秋",
+  "kanji_冬",
+  "kanji_旅",
+  "kanji_字",
+  "kanji_使",
+  "kanji_変",
+  "kanji_最",
+  "kanji_後",
+  "kanji_温",
+  "kanji_泉"
+ ],
+ "cards": [
+  {
+   "id": "r01_journey_to_hokkaido",
+   "title": "北海道への旅",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{北海道|ほっかいどう}への{旅|たび}"
+    },
+    {
+     "type": "readingLine",
+     "jp": "{北海道|ほっかいどう}は{日本|にほん}の{北|きた}にあります。",
+     "en": "Hokkaido is in the north of Japan."
+    },
+    {
+     "type": "heading",
+     "text": "Assisted vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "ここ — here",
+      "旅（たび）— journey",
+      "へ — toward / to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r02_from_sapporo",
+   "title": "札幌から",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{札幌|さっぽろ}は{北海道|ほっかいどう}の{大|おお}きな{町|まち}です。",
+     "en": "Sapporo is a large city in Hokkaido."
+    },
+    {
+     "type": "readingLine",
+     "jp": "ここから{旅|たび}が{始|はじ}まります。",
+     "en": "The journey begins here."
+    },
+    {
+     "type": "heading",
+     "text": "New vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "始まる（はじまる）— begin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r03_south",
+   "title": "南へ",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{札幌|さっぽろ}から{函館|はこだて}へ{行|い}きました。",
+     "en": "I went from Sapporo to Hakodate."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{函館|はこだて}は{北海道|ほっかいどう}の{南|みなみ}にあります。",
+     "en": "Hakodate is in the south of Hokkaido."
+    },
+    {
+     "type": "heading",
+     "text": "New vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "南（みなみ）— south"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r04_counting",
+   "title": "数える",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{旅|たび}の{途中|とちゅう}で、いろいろな{数|かず}を{見|み}ました。",
+     "en": "During the journey, I saw various numbers."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{一|いち}、{二|に}、{三|さん}、{四|よん}、{五|ご}。"
+    },
+    {
+     "type": "readingLine",
+     "jp": "{六|ろく}、{七|なな}、{八|はち}、{九|きゅう}、{十|じゅう}。"
+    },
+    {
+     "type": "readingLine",
+     "jp": "{百円|ひゃくえん}、{千円|せんえん}、{一万円|いちまんえん}。"
+    },
+    {
+     "type": "heading",
+     "text": "Assisted vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "途中（とちゅう）— along the way",
+      "いろいろ — various",
+      "数（かず）— number"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r05_weekdays",
+   "title": "曜日",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{月曜日|げつようび}には{札幌|さっぽろ}。",
+     "en": "Monday — Sapporo."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{火曜日|かようび}には{函館|はこだて}。",
+     "en": "Tuesday — Hakodate."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{水曜日|すいようび}には{小樽|おたる}。",
+     "en": "Wednesday — Otaru."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{毎日|まいにち}いろいろなことをしました。",
+     "en": "I did various things every day."
+    },
+    {
+     "type": "heading",
+     "text": "Vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "毎日（まいにち）— every day",
+      "間（あいだ）— during / while"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r06_otaru_asahikawa",
+   "title": "小樽と旭川",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{小樽|おたる}はきれいな{町|まち}です。",
+     "en": "Otaru is a beautiful town."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{旭川|あさひかわ}は{北海道|ほっかいどう}の{北|きた}にあります。",
+     "en": "Asahikawa is in the north of Hokkaido."
+    },
+    {
+     "type": "heading",
+     "text": "Preview vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "字（じ）— character / letter",
+      "使う（つかう）— use"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r07_biei_furano",
+   "title": "美瑛と富良野",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{美瑛|びえい}は{美|うつく}しいです。",
+     "en": "Biei is beautiful."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{富良野|ふらの}も{美|うつく}しいです。",
+     "en": "Furano is beautiful too."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{春|はる}、{夏|なつ}、{秋|あき}、{冬|ふゆ}、{北海道|ほっかいどう}の{景色|けしき}は{変|か}わります。",
+     "en": "In spring, summer, autumn and winter, Hokkaido's scenery changes."
+    },
+    {
+     "type": "heading",
+     "text": "New vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "春（はる）— spring",
+      "夏（なつ）— summer",
+      "秋（あき）— autumn",
+      "冬（ふゆ）— winter",
+      "景色（けしき）— scenery",
+      "変わる（かわる）— change"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r08_kushiro",
+   "title": "Kushiro",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{東|ひがし}へ{行|い}くと、{釧路|くしろ}があります。",
+     "en": "If you go east, there is Kushiro."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{釧路|くしろ}には{川|かわ}があります。",
+     "en": "There is a river in Kushiro."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{人|ひと}もいます。",
+     "en": "There are people too."
+    },
+    {
+     "type": "heading",
+     "text": "Vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "東（ひがし）— east",
+      "も — also / too"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r09_noboribetsu",
+   "title": "登別",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{最後|さいご}に、{登別|のぼりべつ}へ{行|い}きました。",
+     "en": "Finally, I went to Noboribetsu."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{登別|のぼりべつ}には{温泉|おんせん}があります。",
+     "en": "There are hot springs in Noboribetsu."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{温泉|おんせん}に{入|はい}って、{旅|たび}の{疲|つか}れを{休|やす}めました。",
+     "en": "I entered the hot spring and rested from the fatigue of the journey."
+    },
+    {
+     "type": "heading",
+     "text": "New vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "最後（さいご）— finally / last",
+      "入る（はいる）— enter",
+      "疲れ（つかれ）— fatigue",
+      "休める（やすめる）— rest"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r10_end",
+   "title": "End",
+   "kind": "story",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "readingLine",
+     "jp": "{北海道|ほっかいどう}の{旅|たび}は{終|お}わりました。",
+     "en": "The journey through Hokkaido has ended."
+    },
+    {
+     "type": "readingLine",
+     "jp": "でも、{日本|にほん}の{旅|たび}はまだ{続|つづ}きます。",
+     "en": "But the journey through Japan continues."
+    },
+    {
+     "type": "readingLine",
+     "jp": "{次|つぎ}は{青森|あおもり}です。",
+     "en": "Next is Aomori."
+    },
+    {
+     "type": "heading",
+     "text": "New vocabulary",
+     "level": 3
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "終わる（おわる）— end",
+      "続く（つづく）— continue",
+      "次（つぎ）— next"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r11_assisted_reading",
+   "title": "Assisted Reading Mode",
+   "kind": "practice",
+   "scroll": false,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Recommended interaction:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Start with furigana ON.",
+      "Read once for meaning.",
+      "Turn furigana OFF.",
+      "Tap only unfamiliar kanji.",
+      "Return to the sentence.",
+      "Read the sentence again.",
+      "Repeat."
+     ]
+    },
+    {
+     "type": "callout",
+     "text": "The goal is not to permanently depend on furigana. The goal is to gradually reduce assistance.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "r12_things_to_remember",
+   "title": "Reading Things to Remember",
+   "kind": "summary",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "heading",
+     "text": "Places",
+     "level": 2
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "{北海道|ほっかいどう}",
+      "{札幌|さっぽろ}",
+      "{函館|はこだて}",
+      "{千歳|ちとせ}",
+      "{小樽|おたる}",
+      "{旭川|あさひかわ}",
+      "{美瑛|びえい}",
+      "{富良野|ふらの}",
+      "{釧路|くしろ}",
+      "{登別|のぼりべつ}"
+     ]
+    },
+    {
+     "type": "heading",
+     "text": "Directions",
+     "level": 2
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "北 — north",
+      "南 — south",
+      "東 — east"
+     ]
+    },
+    {
+     "type": "heading",
+     "text": "Reading Vocabulary",
+     "level": 2
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "旅 — journey",
+      "途中 — along the way",
+      "最後 — finally / last",
+      "次 — next",
+      "景色 — scenery",
+      "毎日 — every day"
+     ]
+    },
+    {
+     "type": "heading",
+     "text": "Preview / Encounter Kanji",
+     "level": 2
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_南",
+      "kanji_東",
+      "kanji_春",
+      "kanji_夏",
+      "kanji_秋",
+      "kanji_冬",
+      "kanji_旅",
+      "kanji_字",
+      "kanji_使",
+      "kanji_変",
+      "kanji_最",
+      "kanji_後",
+      "kanji_温",
+      "kanji_泉"
+     ]
+    },
+    {
+     "type": "callout",
+     "text": "These do not all need to become fully mastered N5 kanji immediately. They are deliberately introduced as future familiarity, following the Journey philosophy of gradually exposing learners to more advanced kanji.",
+     "tone": "info"
+    }
+   ]
+  }
+ ],
+ "completion": {
+  "title": "Reading complete",
+  "nextText": "Next: the Hokkaido Test"
+ }
+}

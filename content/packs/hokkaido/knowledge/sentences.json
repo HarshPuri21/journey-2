@@ -1,0 +1,123 @@
+{
+ "schemaVersion": 1,
+ "kind": "sentenceSet",
+ "items": [
+  {
+   "id": "sent_kore_wa_hokkaido_desu",
+   "jp": "これは{北海道|ほっかいどう}です。",
+   "en": "This is Hokkaido.",
+   "romaji": "Kore wa Hokkaidō desu.",
+   "tokens": [
+    {
+     "text": "これ",
+     "gloss": "this",
+     "vocab": "vocab_これ"
+    },
+    {
+     "text": "は",
+     "gloss": "topic marker",
+     "grammar": "grammar_particle_wa"
+    },
+    {
+     "text": "北海道",
+     "reading": "ほっかいどう",
+     "gloss": "Hokkaido",
+     "vocab": "vocab_北海道"
+    },
+    {
+     "text": "です",
+     "gloss": "is / am / are",
+     "grammar": "grammar_desu"
+    }
+   ],
+   "grammar": [
+    "grammar_a_wa_b_desu"
+   ],
+   "kanji": [
+    "kanji_北",
+    "kanji_海",
+    "kanji_道"
+   ]
+  },
+  {
+   "id": "sent_hokkaido_wa_nihon_desu",
+   "jp": "{北海道|ほっかいどう}は{日本|にほん}です。",
+   "en": "Hokkaido is Japan.",
+   "romaji": "Hokkaidō wa Nihon desu.",
+   "tokens": [
+    {
+     "text": "北海道",
+     "reading": "ほっかいどう",
+     "gloss": "Hokkaido",
+     "vocab": "vocab_北海道"
+    },
+    {
+     "text": "は",
+     "gloss": "topic marker",
+     "grammar": "grammar_particle_wa"
+    },
+    {
+     "text": "日本",
+     "reading": "にほん",
+     "gloss": "Japan",
+     "vocab": "vocab_日本"
+    },
+    {
+     "text": "です",
+     "gloss": "is / am / are",
+     "grammar": "grammar_desu"
+    }
+   ],
+   "grammar": [
+    "grammar_a_wa_b_desu"
+   ],
+   "kanji": [
+    "kanji_北",
+    "kanji_海",
+    "kanji_道",
+    "kanji_日",
+    "kanji_本"
+   ]
+  },
+  {
+   "id": "sent_sapporo_wa_hokkaido_desu",
+   "jp": "{札幌|さっぽろ}は{北海道|ほっかいどう}です。",
+   "en": "Sapporo is in Hokkaido.",
+   "romaji": "Sapporo wa Hokkaidō desu.",
+   "tokens": [
+    {
+     "text": "札幌",
+     "reading": "さっぽろ",
+     "gloss": "Sapporo",
+     "vocab": "vocab_札幌"
+    },
+    {
+     "text": "は",
+     "gloss": "topic marker",
+     "grammar": "grammar_particle_wa"
+    },
+    {
+     "text": "北海道",
+     "reading": "ほっかいどう",
+     "gloss": "Hokkaido",
+     "vocab": "vocab_北海道"
+    },
+    {
+     "text": "です",
+     "gloss": "is / am / are",
+     "grammar": "grammar_desu"
+    }
+   ],
+   "grammar": [
+    "grammar_a_wa_b_desu"
+   ],
+   "kanji": [
+    "kanji_札",
+    "kanji_幌",
+    "kanji_北",
+    "kanji_海",
+    "kanji_道"
+   ]
+  }
+ ]
+}

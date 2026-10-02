@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "journeyIndex",
+  "journeyId": "n5",
+  "title": "N5 Kanji Journey",
+  "contentVersion": 1,
+  "route": [
+    {"prefectureId": "hokkaido",  "number": 1, "name": "北海道", "nameEn": "Hokkaido",  "nameReading": "ほっかいどう", "map": {"x": 0.74, "y": 0.10}},
+    {"prefectureId": "aomori",    "number": 2, "name": "青森",   "nameEn": "Aomori",    "nameReading": "あおもり",     "map": {"x": 0.66, "y": 0.24}},
+    {"prefectureId": "iwate",     "number": 3, "name": "岩手",   "nameEn": "Iwate",     "nameReading": "いわて",       "map": {"x": 0.72, "y": 0.32}},
+    {"prefectureId": "miyagi",    "number": 4, "name": "宮城",   "nameEn": "Miyagi",    "nameReading": "みやぎ",       "map": {"x": 0.70, "y": 0.40}},
+    {"prefectureId": "akita",     "number": 5, "name": "秋田",   "nameEn": "Akita",     "nameReading": "あきた",       "map": {"x": 0.60, "y": 0.32}},
+    {"prefectureId": "yamagata",  "number": 6, "name": "山形",   "nameEn": "Yamagata",  "nameReading": "やまがた",     "map": {"x": 0.60, "y": 0.42}},
+    {"prefectureId": "fukushima", "number": 7, "name": "福島",   "nameEn": "Fukushima", "nameReading": "ふくしま",     "map": {"x": 0.64, "y": 0.52}}
+  ]
+}

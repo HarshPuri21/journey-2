@@ -1,0 +1,98 @@
+{
+ "schemaVersion": 1,
+ "kind": "lesson",
+ "id": "hakodate_l01",
+ "number": 2,
+ "title": "Hakodate",
+ "status": "draft",
+ "encounterKanji": [
+  "kanji_函",
+  "kanji_館"
+ ],
+ "cards": [
+  {
+   "id": "arrival",
+   "title": "Arriving in Hakodate",
+   "kind": "intro",
+   "blocks": [
+    {
+     "type": "display",
+     "jp": "函館",
+     "reading": "はこだて",
+     "gloss": "Hakodate"
+    },
+    {
+     "type": "kanjiRow",
+     "ids": [
+      "kanji_函",
+      "kanji_館"
+     ],
+     "show": [
+      "meaning",
+      "readings"
+     ]
+    },
+    {
+     "type": "vocabRef",
+     "id": "vocab_函館"
+    }
+   ]
+  },
+  {
+   "id": "inside_hakodate",
+   "title": "Inside 函館",
+   "kind": "content",
+   "scroll": true,
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Look inside the name of {函館|はこだて}. Each kanji can be broken into parts - and parts are clues."
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_函",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "kanjiRef",
+     "id": "kanji_館",
+     "show": [
+      "meaning",
+      "readings",
+      "components"
+     ]
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_ukebako"
+    },
+    {
+     "type": "radicalRef",
+     "id": "radical_shoku"
+    },
+    {
+     "type": "callout",
+     "text": "函 hides an open box (凵) and 館 carries the food component 食. They hint at what the kanji is about - but the reading はこだて still has to be learned as a name. Components are clues, not magic definitions.",
+     "tone": "tip"
+    }
+   ]
+  },
+  {
+   "id": "draft_notice",
+   "title": "Draft lesson",
+   "kind": "content",
+   "blocks": [
+    {
+     "type": "callout",
+     "text": "The full lesson for Hakodate will replace this draft. Only the city name and its parts are here for now.",
+     "title": "Draft",
+     "tone": "warning"
+    }
+   ]
+  }
+ ]
+}

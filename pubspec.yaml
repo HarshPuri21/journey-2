@@ -1,0 +1,32 @@
+name: n5_kanji_journey
+description: "N5 Kanji Journey - a geographical Japanese-learning adventure."
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    # BEGIN GENERATED CONTENT ASSETS (tool/validate_content.py --sync-assets)
+    - content/
+    - content/packs/hokkaido/
+    - content/packs/hokkaido/assets/
+    - content/packs/hokkaido/chapters/
+    - content/packs/hokkaido/knowledge/
+    - content/packs/hokkaido/lessons/
+    - content/packs/hokkaido/reading/
+    - content/packs/hokkaido/tests/
+    # END GENERATED CONTENT ASSETS
